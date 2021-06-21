@@ -26,7 +26,7 @@
 
 ## UML Diagram
 
-<img src="./extra/factory_pattern.jpg" width="1000" height="430">
+<img src="./extra/factory_pattern.jpg" width="1000" height="630">
 
 ## link to django-email-service-AUS
 
