@@ -23,7 +23,10 @@
 
 - Here main focus was to make codebase loosely coupled
 - I have used **factory method design pattern** so that code is extendable while adding implemntation for otehr providers in future and can be maintained easily
-- UML diagram
+
+## UML Diagram
+
+<img src="./extra/factory_pattern.jpg" width="1000" height="430">
 
 ## link to django-email-service-AUS
 
