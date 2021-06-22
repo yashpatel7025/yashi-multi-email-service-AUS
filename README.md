@@ -11,9 +11,11 @@
 - Its is open source, currently publised to TestPyPI. https://test.pypi.org/project/multi-email-service-yashpatel-AUS/
 - The package provides an abstraction between multiple email service providers, 
 - If one of the services goes down, it can quickly failover to a another provider
+- If no provider is passed, it will first try to send email from Amazon SES
 - Pip package can be found here [multi-email-service-yashpatel-AUS](https://test.pypi.org/project/multi-email-service-yashpatel-AUS/)
 - Can be installed using command
-```pip3 install --index-url https://test.pypi.org/simple/ --extra-index-url https://pypi.org/simple multi-email-service-yashpatel-AUS==1.0.0```
+
+     ```pip3 install --index-url https://test.pypi.org/simple/ --extra-index-url https://pypi.org/simple multi-email-service-yashpatel-AUS==1.0.0```
 
 ## Things I would have improved or added if had more time
 
