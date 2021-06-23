@@ -1,6 +1,6 @@
 # yashi-multi-email-service-AUS
 
-## Why did I chose this project out of 3 opotions
+## Why did I chose this project out of 3 options
 
 - **Excahange Rate** and **SF Movies** seems very small task to implement and to showcase the coding knowledge
 - This project has something that I had never done before, which is developing and publishing own package. So I thought of chosing this, as it involves many things to implement and eventually I'll learn how to develop **pip packages**, **publish** and make it **open source**
